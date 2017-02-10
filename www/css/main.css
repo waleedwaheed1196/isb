@@ -11,9 +11,9 @@
    ========================================================================== */
 
 html {
-    color: #222;
-    font-size: 1em;
-    line-height: 1.4;
+	color: #F3D019;
+	font-size: 1em;
+	line-height: 1.4;
 }
 
 /*
@@ -214,11 +214,11 @@ textarea {
     *:after,
     *:first-letter,
     *:first-line {
-        background: transparent !important;
-        color: #000 !important; /* Black prints faster:
+	background: transparent !important;
+	color: #F3D019 !important; /* Black prints faster:
                                    http://www.sanbeiji.com/archives/953 */
-        box-shadow: none !important;
-        text-shadow: none !important;
+	box-shadow: none !important;
+	text-shadow: none !important;
     }
 
     a,
